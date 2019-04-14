@@ -3,7 +3,7 @@ This is the 1st python code for child detection in Autism Screening System
 The ".ipynb" file is just for test and I will upload the completed one soon ...
 
 # How it Works?!
-We start from describing section 12 of code! Because before that section, we have written the functions that we are going to use in main loop.  
+We start from describing section 12 of code! Because before that section, we have written the functions that we are going to use in main loop and we will describe them in another part.  
   
 Lines 2 and 3: These two lines create a csv file which we are going to use in saving positions of  
 Lines 6 and 7: These two lines are setuping our saved output video  
